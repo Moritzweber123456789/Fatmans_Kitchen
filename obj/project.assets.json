@@ -101,11 +101,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mwebb\\Desktop\\Fatmans_Kitchen\\Fatman\\Fatmans_Kitchen.csproj",
+      "projectUniqueName": "C:\\Users\\mwebb\\Desktop\\Fatmans_Kitchen\\Fatmans_Kitchen\\Fatmans_Kitchen.csproj",
       "projectName": "Fatmans_Kitchen",
-      "projectPath": "C:\\Users\\mwebb\\Desktop\\Fatmans_Kitchen\\Fatman\\Fatmans_Kitchen.csproj",
+      "projectPath": "C:\\Users\\mwebb\\Desktop\\Fatmans_Kitchen\\Fatmans_Kitchen\\Fatmans_Kitchen.csproj",
       "packagesPath": "C:\\Users\\mwebb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mwebb\\Desktop\\Fatmans_Kitchen\\Fatman\\obj\\",
+      "outputPath": "C:\\Users\\mwebb\\Desktop\\Fatmans_Kitchen\\Fatmans_Kitchen\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
