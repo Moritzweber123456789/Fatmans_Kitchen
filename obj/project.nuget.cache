@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "biojSLsl0fWt1unx8ZmfqYIQvAu7V0EazM6+Hrt52NYV3xvBnBSb7Rnlgm07RUrMIlbqdM95mznUCMdP5si8fw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mwebb\\Desktop\\Fatmans_Kitchen\\Fatmans_Kitchen\\Fatmans_Kitchen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mwebb\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\mwebb\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

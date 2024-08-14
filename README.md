@@ -1,3 +1,3 @@
-# Fatmans_Kitchen
-# the
-# Cockblock
+# Fatman's Kitchen
+# The Ultimate Cooking Blog
+# Delicious Recipes for the Everyday!

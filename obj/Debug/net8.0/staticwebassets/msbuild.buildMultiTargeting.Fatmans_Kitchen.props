@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Fatmans_Kitchen.props" />
+</Project>
