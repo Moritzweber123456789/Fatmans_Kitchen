@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fatmans_Kitchen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df334ed1c8b5fed8d4fbb3e3fc2cbc1e4f79f5c1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+764d881cefaa3ebddf542cc97d5e3f69adccccd6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fatmans_Kitchen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fatmans_Kitchen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
